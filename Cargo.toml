@@ -1,0 +1,9 @@
+[package]
+name = "stackframe"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+x86 = "0.52"
+tracefp = "0.0.1"
+backtrace = "0.3"
